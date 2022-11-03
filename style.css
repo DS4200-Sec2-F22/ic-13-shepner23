@@ -1,9 +1,9 @@
+
+
 .row {
-    display: flex;
-    flex-direction: row;
+  display: flex;
 }
-  
-  
-.col {
-    width: .5;
+
+.column {
+  flex: 50%;
 }
